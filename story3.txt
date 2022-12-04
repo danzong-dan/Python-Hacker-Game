@@ -1,0 +1,23 @@
+您好
+我是你的笔友JC
+你现在已经完成了重要的一步
+现在我来教你咋用这个高只因的东西
+
+他的使用格式是:
+wgetine [文件名]
+好！
+现在你要下载的是passguesser.exe
+这次不用telnet
+先用wgetine方法
+再用 install 指令
+把 passguesser 迁移到 Data 文件夹
+去试试吧！
+---------------------------
+提示:
+---------------------------
+wgetine passguesser.exe
+---------------------------
+install passguesser.exe
+(这简直太简单了！)
+    JC
+    2022.11.20
